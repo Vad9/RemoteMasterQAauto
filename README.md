@@ -1,0 +1,2 @@
+# RemoteMasterQAauto
+QA_Automation
