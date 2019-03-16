@@ -98,4 +98,10 @@ Session ID: bcbf2377fb1c33f85816a9ad1ddb801a
  2019-03-14 16:34:00,232 INFO [main] ActionsWithOurElements:20 - Studentwas inputted into Input
  2019-03-14 16:34:00,308 INFO [main] ActionsWithOurElements:20 - 909090was inputted into Input
  2019-03-14 16:34:00,763 INFO [main] ActionsWithOurElements:30 - element was clicked
+ 2019-03-14 19:05:13,623 INFO [main] LoginPage:26 - Login page was opened
+ 2019-03-14 19:05:13,733 INFO [main] ActionsWithOurElements:20 - Studentwas inputted into Input
+ 2019-03-14 19:05:13,815 INFO [main] ActionsWithOurElements:20 - 909090was inputted into Input
+ 2019-03-14 19:05:14,488 INFO [main] ActionsWithOurElements:30 - element was clicked
+ 2019-03-14 19:05:14,585 INFO [main] ActionsWithOurElements:30 - element was clicked
+ 2019-03-14 19:05:15,093 INFO [main] ActionsWithOurElements:30 - element was clicked
  
